@@ -55,5 +55,12 @@
 2011 | 刘森辕，徐恺元，穆飞扬，兰颢
 2012 | 曹丰宇，李明亮，龚宇鹏，聂其瑞
 2013 | 周默，尚宇，刘曜，王宇恒，黄一帆，刘昊，张佳辰，王碗丽，李雅颂，马子元，李琳，张金迪，莫小柒，李格非
-2014 | 付林，丰一帆，李荇，张碧莹，刘昱，梁凯，丁志伟，焦志润
-2015 | 陈凯杰，李首正，沈昊，陈宇，余天焕，杨超，朱家豪，蒋天舒，林力强
+2014 | 付林，丰一帆，李荇，张碧莹，刘昱，梁凯，丁志伟，焦志润，杜岳峰
+2015 | 陈凯杰，李首正，沈昊，陈宇，余天焕，杨超，朱家豪，蒋天舒，林力强，李艺丁
+
+## 资料来源
+
+[xdlinux社区宣言](http://linux.xidian.edu.cn/static/xdlinux.html)  
+[GitHub xdlinux-histry](https://github.com/xdlinux/xdlinux-history)  
+[西电开源社区发展史](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=119&extra=page%3D1)  
+[【整理贴】西电开源社区简史与开篇宣言](http://xdlinux.info/bbs/forum.php?mod=viewthread&tid=1240&extra=page%3D1)
